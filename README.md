@@ -1,1 +1,1 @@
-# goole-data-analyst
+# google-play-store-data-analyst
